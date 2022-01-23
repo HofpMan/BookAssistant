@@ -12,8 +12,10 @@ namespace BookAssistant.Droid
     {
         protected override void OnCreate(Bundle savedInstanceState)
         {
+            Firebase.FirebaseApp.InitializeApp(Application.Context);
             base.OnCreate(savedInstanceState);
 
+            
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
             LoadApplication(new App());

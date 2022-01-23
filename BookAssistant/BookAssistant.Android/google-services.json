@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "107376924526",
+    "project_id": "bookassistent",
+    "storage_bucket": "bookassistent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107376924526:android:de63d5e19dd97f8d1dd37f",
+        "android_client_info": {
+          "package_name": "com.sharpteam.bookassistent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107376924526-cr39gbc2h4pg9173corlo2vhqa8evlmj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sharpteam.bookassistent",
+            "certificate_hash": "d0bba1b66d076859ee40c873cb72d2a09ef79243"
+          }
+        },
+        {
+          "client_id": "107376924526-r43v0cg9thqs55rsg72fnau23ttppb83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAix4HEXIASPdv-oNpAK3XD3hI2LCK_Uik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107376924526-r43v0cg9thqs55rsg72fnau23ttppb83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
