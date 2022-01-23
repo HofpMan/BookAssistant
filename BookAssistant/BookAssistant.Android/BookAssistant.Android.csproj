@@ -71,7 +71,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Datajsconfig.json" />
-    <CodeAnalysisDictionary Include="google-services.json" />
+    <GoogleServicesJson Include="google-services.json" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
     <None Include="Properties\AndroidManifest.xml" />
