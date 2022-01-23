@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ViewCell xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="BookAssistant.Views.Cells.OutgoingViewCell">
+    <Frame BackgroundColor="#2196F3"
+            CornerRadius="20"
+            Padding="0"
+            Rotation="180"
+            FlowDirection="LeftToRight"
+            HasShadow="false"
+            Margin="10,10,60,5">
+        <Label Text="{Binding Text}"
+                  Padding="10"/>
+    </Frame>
+</ViewCell>
